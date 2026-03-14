@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "gray",
+    "score": 186.0,
+    "text": "٣٠٤٠٧١٨١٢٠٢٢٩٤"
+  },
+  {
+    "tag": "otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "adaptive",
+    "score": 166.0,
+    "text": "^E ٠٢٢٩٤ ١٢ ١٨ ٠٧ ٣٠٤"
+  },
+  {
+    "tag": "unsharp",
+    "score": 186.0,
+    "text": "٣٠٤٠٧١٨١٢٠٢٢٩٤"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "digits_dilate",
+    "score": 0.0,
+    "text": ""
+  }
+]

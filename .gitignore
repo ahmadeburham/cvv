@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+run_live.log
+single_live.log
+single_trace.log
+batch_trace.log
+
+batch_results*/
+single_test_debug/
+single_test_output.json
+
+*.tmp
+*.bak

@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "gray",
+    "score": 90.0,
+    "text": "٢٩٨ ٠٠٠٧٨ ٨٨"
+  },
+  {
+    "tag": "otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "adaptive",
+    "score": 166.0,
+    "text": "٨٠٧١٤ ٧٨٠٠٠٧٧٤٠"
+  },
+  {
+    "tag": "unsharp",
+    "score": 27.0,
+    "text": "٢٩٨"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "digits_dilate",
+    "score": 0.0,
+    "text": ""
+  }
+]

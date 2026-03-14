@@ -1,0 +1,226 @@
+[
+  {
+    "verification": {
+      "id_image_valid": false,
+      "alignment_ok": true,
+      "alignment_inliers": 46,
+      "alignment_reprojection_error": 0.9259384870529175,
+      "alignment_method": "sift",
+      "scene_corners": [
+        [
+          -15.762495994567871,
+          276.73822021484375
+        ],
+        [
+          805.090576171875,
+          273.1539001464844
+        ],
+        [
+          796.5671997070312,
+          772.0811767578125
+        ],
+        [
+          -51.353302001953125,
+          768.5429077148438
+        ]
+      ],
+      "nonchangeable_zones": {
+        "valid": false,
+        "patch_scores": [
+          {
+            "index": 0,
+            "ssim": 0.9567062618128096
+          },
+          {
+            "index": 1,
+            "ssim": 0.7519975146388366
+          },
+          {
+            "index": 2,
+            "ssim": 0.3988686523141936
+          }
+        ],
+        "threshold": 0.54
+      },
+      "face_match": false,
+      "face_distance": null,
+      "face_check_skipped": true,
+      "ocr_backend": "paddle"
+    },
+    "fields": {
+      "full_name": "مينا عزيز انيس سمير S o",
+      "full_address": "٣٦ ش الشرفا مدكور فيصل بولاق الدكرور الجيزه",
+      "id_number": "29406092100591",
+      "birthday": "1994/06/09"
+    },
+    "file": "1710870341.webp"
+  },
+  {
+    "verification": {
+      "id_image_valid": false,
+      "alignment_ok": true,
+      "alignment_inliers": 92,
+      "alignment_reprojection_error": 1.3735058307647705,
+      "alignment_method": "sift",
+      "scene_corners": [
+        [
+          268.0798034667969,
+          729.5051879882812
+        ],
+        [
+          1704.1849365234375,
+          678.3062133789062
+        ],
+        [
+          1669.8448486328125,
+          3100.05322265625
+        ],
+        [
+          199.7010498046875,
+          3028.91162109375
+        ]
+      ],
+      "nonchangeable_zones": {
+        "valid": false,
+        "patch_scores": [
+          {
+            "index": 0,
+            "ssim": 0.4018472189475612
+          },
+          {
+            "index": 1,
+            "ssim": 0.47886012813207846
+          },
+          {
+            "index": 2,
+            "ssim": 0.27728828995556143
+          }
+        ],
+        "threshold": 0.54
+      },
+      "face_match": false,
+      "face_distance": null,
+      "face_check_skipped": true,
+      "ocr_backend": "paddle"
+    },
+    "fields": {
+      "full_name": "",
+      "full_address": "المسصورد E",
+      "id_number": "1",
+      "birthday": ""
+    },
+    "file": "IMG_٢٠٢٥٠٢٢٣_١٥٢١١١.jpg"
+  },
+  {
+    "verification": {
+      "id_image_valid": false,
+      "alignment_ok": true,
+      "alignment_inliers": 106,
+      "alignment_reprojection_error": 0.7675344347953796,
+      "alignment_method": "sift",
+      "scene_corners": [
+        [
+          -71.26487731933594,
+          -45.9026985168457
+        ],
+        [
+          1233.27880859375,
+          12.655735969543457
+        ],
+        [
+          1181.1929931640625,
+          756.701416015625
+        ],
+        [
+          -40.069580078125,
+          756.46142578125
+        ]
+      ],
+      "nonchangeable_zones": {
+        "valid": false,
+        "patch_scores": [
+          {
+            "index": 0,
+            "ssim": 0.9729317058796343
+          },
+          {
+            "index": 1,
+            "ssim": 0.5935712393468389
+          },
+          {
+            "index": 2,
+            "ssim": 0.05654570040785404
+          }
+        ],
+        "threshold": 0.54
+      },
+      "face_match": false,
+      "face_distance": null,
+      "face_check_skipped": true,
+      "ocr_backend": "paddle"
+    },
+    "fields": {
+      "full_name": "يوسف عبد الحميد عبدالواحد حازم",
+      "full_address": "١٨ ش الجامع تقسيم غنيم ملينة المنصورة ثان الدقهنية",
+      "id_number": "30407181202294",
+      "birthday": "2004/07/18"
+    },
+    "file": "OIP (1).webp"
+  },
+  {
+    "verification": {
+      "id_image_valid": false,
+      "alignment_ok": true,
+      "alignment_inliers": 74,
+      "alignment_reprojection_error": 0.42633306980133057,
+      "alignment_method": "sift",
+      "scene_corners": [
+        [
+          1.6290605068206787,
+          163.16001892089844
+        ],
+        [
+          413.7724914550781,
+          163.693115234375
+        ],
+        [
+          409.96484375,
+          420.6016845703125
+        ],
+        [
+          -1.7262917757034302,
+          422.2608947753906
+        ]
+      ],
+      "nonchangeable_zones": {
+        "valid": false,
+        "patch_scores": [
+          {
+            "index": 0,
+            "ssim": 0.9433004213052606
+          },
+          {
+            "index": 1,
+            "ssim": 0.8805093109741924
+          },
+          {
+            "index": 2,
+            "ssim": 0.4235039305086897
+          }
+        ],
+        "threshold": 0.54
+      },
+      "face_match": false,
+      "face_distance": null,
+      "face_check_skipped": true,
+      "ocr_backend": "paddle"
+    },
+    "fields": {
+      "full_name": "محمداراهيم فتح راهيم",
+      "full_address": "القج البد الخاتكه ، القشيوية مركز",
+      "id_number": "80714780007740",
+      "birthday": "1"
+    },
+    "file": "OIP.webp"
+  }
+]

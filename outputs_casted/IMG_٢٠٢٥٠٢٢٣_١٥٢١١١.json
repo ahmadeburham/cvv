@@ -1,0 +1,55 @@
+{
+  "verification": {
+    "id_image_valid": false,
+    "alignment_ok": true,
+    "alignment_inliers": 92,
+    "alignment_reprojection_error": 1.3735058307647705,
+    "alignment_method": "sift",
+    "scene_corners": [
+      [
+        268.0798034667969,
+        729.5051879882812
+      ],
+      [
+        1704.1849365234375,
+        678.3062133789062
+      ],
+      [
+        1669.8448486328125,
+        3100.05322265625
+      ],
+      [
+        199.7010498046875,
+        3028.91162109375
+      ]
+    ],
+    "nonchangeable_zones": {
+      "valid": false,
+      "patch_scores": [
+        {
+          "index": 0,
+          "ssim": 0.4018472189475612
+        },
+        {
+          "index": 1,
+          "ssim": 0.47886012813207846
+        },
+        {
+          "index": 2,
+          "ssim": 0.27728828995556143
+        }
+      ],
+      "threshold": 0.54
+    },
+    "face_match": false,
+    "face_distance": null,
+    "face_check_skipped": true,
+    "ocr_backend": "paddle"
+  },
+  "fields": {
+    "full_name": "",
+    "full_address": "المسصورد E",
+    "id_number": "1",
+    "birthday": ""
+  }
+}

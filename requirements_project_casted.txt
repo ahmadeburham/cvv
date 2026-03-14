@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.11.4
+scikit-image==0.22.0
+opencv-python==4.10.0.84
+Pillow==10.4.0
+requests==2.31.0
+urllib3==2.2.3
+charset-normalizer==3.4.0
+chardet==5.2.0
+paddlepaddle==3.2.2
+paddleocr==3.4.0
+paddlex==3.4.2
+pytesseract==0.3.13

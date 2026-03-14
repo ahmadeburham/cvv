@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "gray",
+    "score": -2.0,
+    "text": "I 8"
+  },
+  {
+    "tag": "otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "adaptive",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "unsharp",
+    "score": 24.6,
+    "text": "المسصورد E"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": ""
+  }
+]

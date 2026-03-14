@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "gray",
+    "score": 59.6,
+    "text": "محمداراهيم فتح راهيم"
+  },
+  {
+    "tag": "otsu",
+    "score": 9.600000000000001,
+    "text": "سمك"
+  },
+  {
+    "tag": "adaptive",
+    "score": 6.4,
+    "text": "رم"
+  },
+  {
+    "tag": "unsharp",
+    "score": 43.6,
+    "text": "محمدار اهيم فتح"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": ""
+  }
+]

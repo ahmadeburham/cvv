@@ -1,0 +1,55 @@
+{
+  "verification": {
+    "id_image_valid": false,
+    "alignment_ok": true,
+    "alignment_inliers": 74,
+    "alignment_reprojection_error": 0.42633306980133057,
+    "alignment_method": "sift",
+    "scene_corners": [
+      [
+        1.6290605068206787,
+        163.16001892089844
+      ],
+      [
+        413.7724914550781,
+        163.693115234375
+      ],
+      [
+        409.96484375,
+        420.6016845703125
+      ],
+      [
+        -1.7262917757034302,
+        422.2608947753906
+      ]
+    ],
+    "nonchangeable_zones": {
+      "valid": false,
+      "patch_scores": [
+        {
+          "index": 0,
+          "ssim": 0.9433004213052606
+        },
+        {
+          "index": 1,
+          "ssim": 0.8805093109741924
+        },
+        {
+          "index": 2,
+          "ssim": 0.4235039305086897
+        }
+      ],
+      "threshold": 0.54
+    },
+    "face_match": false,
+    "face_distance": null,
+    "face_check_skipped": true,
+    "ocr_backend": "paddle"
+  },
+  "fields": {
+    "full_name": "محمداراهيم فتح راهيم",
+    "full_address": "القج البد الخاتكه ، القشيوية مركز",
+    "id_number": "80714780007740",
+    "birthday": "1"
+  }
+}
