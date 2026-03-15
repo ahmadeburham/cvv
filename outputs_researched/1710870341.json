@@ -1,0 +1,69 @@
+{
+  "verification": {
+    "alignment_ok": true,
+    "alignment_method": "sift",
+    "alignment_inliers": 46,
+    "alignment_reprojection_error": 0.9259384870529175,
+    "scene_corners": [
+      [
+        -15.762495994567871,
+        276.73822021484375
+      ],
+      [
+        805.090576171875,
+        273.1539001464844
+      ],
+      [
+        796.5671997070312,
+        772.0811767578125
+      ],
+      [
+        -51.353302001953125,
+        768.5429077148438
+      ]
+    ],
+    "layout_validation": {
+      "valid": true,
+      "mean_score": 0.5231821880999842,
+      "patch_scores": [
+        {
+          "index": 0,
+          "ssim": 0.9481765962709943,
+          "edge": 1.0,
+          "score": 0.9792706385083977
+        },
+        {
+          "index": 1,
+          "ssim": 0.7413582156830886,
+          "edge": 0.14534883720930233,
+          "score": 0.38375258859881684
+        },
+        {
+          "index": 2,
+          "ssim": 0.5163083429818452,
+          "edge": 0.0,
+          "score": 0.2065233371927381
+        }
+      ],
+      "threshold": 0.42
+    },
+    "field_plausibility": {
+      "name_ok": false,
+      "address_ok": true,
+      "id_number_ok": false,
+      "birthday_ok": false,
+      "all_ok": false
+    },
+    "id_image_valid": false,
+    "face_match": false,
+    "face_distance": null,
+    "face_check_skipped": true,
+    "ocr_backend": "paddle"
+  },
+  "fields": {
+    "full_name": "مي يي",
+    "full_address": "٣٦ش الشرفا مدكور قيص الدكرور الجيزه بولاق",
+    "id_number": "29406092",
+    "birthday": "199170"
+  }
+}

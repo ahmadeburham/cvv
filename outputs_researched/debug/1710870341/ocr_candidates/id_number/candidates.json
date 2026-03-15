@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "gray",
+    "score": 64.0,
+    "text": "٢٩٤٠٦٠٩٢"
+  },
+  {
+    "tag": "otsu",
+    "score": 8.0,
+    "text": "٢"
+  },
+  {
+    "tag": "adaptive",
+    "score": 0.0,
+    "text": "وغد"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "digits_dilate",
+    "score": 0.0,
+    "text": ""
+  }
+]

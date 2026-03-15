@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "gray",
+    "score": 16.0,
+    "text": "يه لفي"
+  },
+  {
+    "tag": "otsu",
+    "score": 6.0,
+    "text": "مي"
+  },
+  {
+    "tag": "adaptive",
+    "score": 50.0,
+    "text": "المصودة ئكن الدفهي"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": -3.0,
+    "text": "SAK"
+  }
+]

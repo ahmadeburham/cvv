@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "gray",
+    "score": 26.0,
+    "text": "١٨ ش الجامع"
+  },
+  {
+    "tag": "otsu",
+    "score": 3.0,
+    "text": "ة"
+  },
+  {
+    "tag": "adaptive",
+    "score": 51.0,
+    "text": "غيم هد البامع تقسيم"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": ""
+  }
+]

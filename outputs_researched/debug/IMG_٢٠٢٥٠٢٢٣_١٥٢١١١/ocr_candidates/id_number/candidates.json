@@ -1,0 +1,27 @@
+[
+  {
+    "tag": "gray",
+    "score": 16.0,
+    "text": "A ١م 1"
+  },
+  {
+    "tag": "otsu",
+    "score": 0.0,
+    "text": ""
+  },
+  {
+    "tag": "adaptive",
+    "score": 0.0,
+    "text": "$ E"
+  },
+  {
+    "tag": "inv_otsu",
+    "score": 0.0,
+    "text": "ـ"
+  },
+  {
+    "tag": "digits_dilate",
+    "score": 0.0,
+    "text": ""
+  }
+]
